@@ -2,12 +2,12 @@
 Templates and guidelines for planning and writing scientific theses, with examples for GIS and vegetation science. Includes IMRAD structure, research question and hypothesis development, data management, and best practices for students.
 
 ## Topic
-*Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
+*TODO: Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
 
 Example: Spatio-Temporal Wildfire Patterns
 
 ## Research Questions and Hypothesis
-*Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
+*TODO: Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
 
 #### Research Question:
 - How do topographic features and climatic variables interact to influence wildfire frequency and intensity in Mediterranean ecosystems?
@@ -20,7 +20,7 @@ Example: Spatio-Temporal Wildfire Patterns
 - GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
 
 ## Data Management Plan
-*A data management plan is essential because it ensures that research data are properly organized, securely stored, and well documented throughout the project, which supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.*
+*TODO: Provide a data management plan which ensures that research data are properly organized, securely stored, and well documented throughout the project. This supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.*
 
 - What data will be used (e.g., remote sensing, field surveys, existing databases)?
 - How will data be accessed and managed (file formats, storage, backup)?
