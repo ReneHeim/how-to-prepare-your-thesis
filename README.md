@@ -4,10 +4,19 @@
 
 # How to prepare your thesis?
 
+> This document is a brief guideline on how to prepare your thesis (B.Sc., M.Sc.). It is intended to be valid for students at the [Faculty of Geoscience and Geography](https://www.uni-goettingen.de/en/18522.html) at the University of Göttingen. **But**, I am aiming at it being somewhat valuable to students from other faculties and universities. Please feel free to
+> provide feed back by raining an [issue](https://github.com/ReneHeim/how-to-prepare-your-thesis/issues) or sending an email (rene.heim@uni-goettingen.de).
+
 ## Topic
 *TODO: Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
 
-Example: Invasive Species Colonization
+#### Title: Invasive Species Colonization
+
+#### Practical Motivation:
+Invasive species colonization poses significant challenges for land managers, agriculture, and conservation efforts worldwide. Invasive plants and animals can rapidly alter ecosystems, reduce biodiversity, and cause substantial economic losses. Understanding where and why invasive species spread enables more effective prevention and targeted management, helping to protect native habitats and reduce long-term control costs.
+
+#### Scientific Motivation:
+Studying invasive species colonization advances our understanding of fundamental ecological processes, such as species interactions, adaptation, and ecosystem resilience. Biological invasions serve as “natural experiments” that reveal how communities respond to new species and changing environments, offering insights into population biology, community dynamics, and biogeography. This research also informs the development of improved predictive models and management strategies in invasion ecology.
 
 ## Research Questions and Hypothesis
 *TODO: Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
