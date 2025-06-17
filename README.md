@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/thesis.jpg" width="350" alt="Thesis Hat">
+</p>
+
 # How to prepare your thesis?
 
 ## Topic
