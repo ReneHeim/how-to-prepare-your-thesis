@@ -1,4 +1,4 @@
-# how-to-prepare-your-thesis
+# How to prepare your thesis?
 Templates and guidelines for planning and writing scientific theses, with examples for GIS and vegetation science. Includes IMRAD structure, research question and hypothesis development, data management, and best practices for students.
 
 ## Topic
@@ -10,14 +10,14 @@ Example: Spatio-Temporal Wildfire Patterns
 *Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
 
 Research Question:
-•	How do topographic features and climatic variables interact to influence wildfire frequency and intensity in Mediterranean ecosystems?
+- How do topographic features and climatic variables interact to influence wildfire frequency and intensity in Mediterranean ecosystems?
 Hypotheses:
-•	H1 (Proposes a specific effect/relationship between variables.): South-facing slopes with >15° incline will show 30% higher fire recurrence than north-facing aspects due to lower soil moisture
-•	H0 (Assumes no effect/no relationship exists between variables.): No significant correlation exists between annual precipitation variability and burned area size
+- H1 (Proposes a specific effect/relationship between variables.): South-facing slopes with >15° incline will show 30% higher fire recurrence than north-facing aspects due to lower soil moisture
+- H0 (Assumes no effect/no relationship exists between variables.): No significant correlation exists between annual precipitation variability and burned area size
 Methods:
-•	Spatial analysis: Kernel density heatmaps + logistic regression
+- Spatial analysis: Kernel density heatmaps + logistic regression
 Data: 
-•	GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
+- GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
 
 ## Data Management Plan
 A data management plan is essential because it ensures that research data are properly organized, securely stored, and well documented throughout the project, which supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.
