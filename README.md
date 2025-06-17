@@ -5,7 +5,7 @@
 # How to prepare your thesis?
 
 > This document is a brief guideline on how to prepare your thesis (B.Sc., M.Sc.). It is intended to be valid for students at the [Faculty of Geoscience and Geography](https://www.uni-goettingen.de/en/18522.html) at the University of Göttingen. **But**, I am aiming at it being somewhat valuable to students from other faculties and universities. Please feel free to
-> provide feed back by raining an [issue](https://github.com/ReneHeim/how-to-prepare-your-thesis/issues) or sending an email (rene.heim@uni-goettingen.de).
+> provide feedback by raising an [issue](https://github.com/ReneHeim/how-to-prepare-your-thesis/issues) or sending an email (rene.heim@uni-goettingen.de).
 
 ## Topic
 *TODO: Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
