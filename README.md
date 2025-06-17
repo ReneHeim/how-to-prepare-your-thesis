@@ -9,14 +9,14 @@ Example: Spatio-Temporal Wildfire Patterns
 ## Research Questions and Hypothesis
 *Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
 
-Research Question:
+### Research Question:
 - How do topographic features and climatic variables interact to influence wildfire frequency and intensity in Mediterranean ecosystems?
-Hypotheses:
+### Hypotheses:
 - H1 (Proposes a specific effect/relationship between variables.): South-facing slopes with >15° incline will show 30% higher fire recurrence than north-facing aspects due to lower soil moisture
 - H0 (Assumes no effect/no relationship exists between variables.): No significant correlation exists between annual precipitation variability and burned area size
-Methods:
+### Methods:
 - Spatial analysis: Kernel density heatmaps + logistic regression
-Data: 
+### Data: 
 - GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
 
 ## Data Management Plan
