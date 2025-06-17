@@ -3,20 +3,27 @@
 ## Topic
 *TODO: Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
 
-Example: Spatio-Temporal Wildfire Patterns
+Example: Invasive Species Colonization
 
 ## Research Questions and Hypothesis
 *TODO: Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
 
 #### Research Question:
-- How do topographic features and climatic variables interact to influence wildfire frequency and intensity in Mediterranean ecosystems?
+- How does road network density facilitate the spread of invasive Acacia species in African savannas?
 #### Hypotheses:
-- H1 (Proposes a specific effect/relationship between variables.): South-facing slopes with >15° incline will show 30% higher fire recurrence than north-facing aspects due to lower soil moisture
-- H0 (Assumes no effect/no relationship exists between variables.): No significant correlation exists between annual precipitation variability and burned area size
+- H1 (Proposes a specific effect/relationship between variables.): Invasion likelihood increases exponentially within 500m of roads (OR=3.2) versus control areas
+- H0 (Assumes no effect/no relationship exists between variables.): Soil type has no moderating effect on road-corridor invasion patterns
 #### Methods:
-- Spatial analysis: Kernel density heatmaps + logistic regression
+- Object-based image analysis (WorldView-3) for species mapping
+- Circuit theory connectivity models in Linkage Mapper
 #### Data: 
-- GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
+- WorldView-3 Imagery
+
+Other common data sources:
+- Remote sensing: Sentinel-2, Landsat, LiDAR
+- GIS layers: WorldClim, SoilGrids, OpenStreetMap
+- Field validation: UAV photogrammetry, species inventories
+
 
 ## Data Management Plan
 *TODO: Provide a data management plan which ensures that research data are properly organized, securely stored, and well documented throughout the project. This supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.*
