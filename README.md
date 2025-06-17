@@ -20,15 +20,16 @@ Example: Spatio-Temporal Wildfire Patterns
 - GIS layers: DEM (slope/aspect), climate grids (CHIRPS rainfall), EFFIS fire atlas
 
 ## Data Management Plan
-A data management plan is essential because it ensures that research data are properly organized, securely stored, and well documented throughout the project, which supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.
+*A data management plan is essential because it ensures that research data are properly organized, securely stored, and well documented throughout the project, which supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.*
 
 - What data will be used (e.g., remote sensing, field surveys, existing databases)?
 - How will data be accessed and managed (file formats, storage, backup)?
 - Any ethical or legal considerations (e.g., data privacy, licenses)?
 
 ## Thesis Structure
-Draft a tentative table of contents, including main chapters and subheadings. This helps to visualize the flow of their argument and ensures all necessary components are included
-A typical scientific thesis—especially in the natural sciences or applied fields like GIS and vegetation science—follows a well-established structure designed to guide the reader logically through your research. One of the most widely used formats is the IMRAD structure, which stands for Introduction, Methods, Results, and Discussion. Many universities and disciplines use this as the backbone for thesis writing, often with additional sections for context and completeness.
+*Draft a tentative table of contents, including main chapters and subheadings. This helps to visualize the flow of your arguments and ensures all necessary components are included.* 
+
+A typical scientific thesis, especially in the natural sciences or applied fields like GIS and vegetation science, follows a well-established structure designed to guide the reader logically through your research. One of the most widely used formats is the IMRAD structure, which stands for Introduction, Methods, Results, and Discussion. Many universities and disciplines use this as the backbone for thesis writing, often with additional sections for context and completeness.
 
 #### General Thesis Structure (with IMRAD)
 1.	Title Page
