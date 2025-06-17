@@ -66,7 +66,7 @@ ________________________________________
 <p align="center">
   <img src="imgs/imrad.png" width="350" alt="IMRAD Hourglass Example">
 </p>
-<p align="center"><em>Figure 1. The hourglass IMRAD model illustrates how scientific writing moves from a broad, general context in the Introduction, narrows to specific methods and results at the center, and then widens again in the Discussion to connect findings back to the broader scientific field. This structure helps readers follow the logical flow from general background, through focused research, and back out to general implications and relevance (Source: https://moxielearn.ai/blog/crafting-research-articles-the-imrad-structure).</em></p>
+<p align="center"><em>Figure 1. The hourglass IMRAD model illustrates how scientific writing moves from a broad, general context in the Introduction, narrows to specific methods and results at the center, and then widens again in the Discussion to connect findings back to the broader scientific field. This structure helps readers follow the logical flow from general background, through focused research, and back out to general implications and relevance ([Source:](https://moxielearn.ai/blog/crafting-research-articles-the-imrad-structure)).</em></p>
 
  
 IMRAD stands for:
