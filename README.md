@@ -89,23 +89,23 @@ Why IMRAD?
 - Universality: Recognized and accepted across scientific disciplines.
 ________________________________________
 
-# Introduction to the Scientific Method
+## Introduction to the Scientific Method
 The scientific method is a systematic, empirical approach to acquiring knowledge and understanding the world. It involves making careful observations, asking focused questions, forming testable hypotheses, collecting and analyzing data, and drawing conclusions based on evidence. This process helps minimize bias and ensures that findings are reliable and reproducible.
 
-## Why Do We Ask Research Questions?
+#### Why Do We Ask Research Questions?
 Research questions are the foundation of any scientific inquiry. They:
 - Define the scope and focus of a study, narrowing broad topics into specific, researchable issues.
 - Guide the selection of methods, data, and analysis by clarifying what the researcher aims to discover or explain.
 - Communicate the purpose and direction of the study to others.
 A well-formulated research question ensures that the investigation is coherent and targeted, increasing the likelihood of meaningful results.
 
-## Why Do We Formulate Hypotheses?
+#### Why Do We Formulate Hypotheses?
 A hypothesis is a clear, testable statement predicting an outcome or explaining a relationship between variables. Hypotheses:
 - Provide a specific answer or explanation to the research question, based on theory or prior evidence.
 - Guide the design of experiments or analyses, specifying what will be tested and how.
 - Allow for empirical testing—researchers can collect data to support or refute the hypothesis, contributing to scientific knowledge.
 
-## Is It Always Necessary to Have Both?
+#### Is It Always Necessary to Have Both?
 It is common, especially in quantitative research, to use both research questions and hypotheses: the research question frames what you want to know, and the hypothesis states what you expect to find. However, it is not always required to have both in every study:
 - Exploratory or qualitative research may focus on research questions without formal hypotheses, especially when little is known about the topic or when the goal is to describe or understand phenomena rather than test predictions.
 - Descriptive studies may use only research questions if the aim is to document patterns or trends without making predictions.
@@ -113,3 +113,7 @@ It is common, especially in quantitative research, to use both research question
 
 In summary, research questions and hypotheses are complementary tools: questions identify what you want to explore, while hypotheses provide specific, testable predictions. Whether both are needed depends on your research goals, methods, and the state of knowledge in your field.
 
+## Resources
+
+- https://writingcenter.uagc.edu/thesis-generator
+- https://thereader.mitpress.mit.edu/umberto-eco-how-to-write-a-thesis/
