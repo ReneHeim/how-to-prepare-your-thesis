@@ -6,8 +6,10 @@
 
 > This document is a brief guideline on how to prepare your thesis (B.Sc., M.Sc.). It is intended to be valid for students at the [Faculty of Geoscience and Geography](https://www.uni-goettingen.de/en/18522.html) at the University of Göttingen. **But**, I am aiming at it being somewhat valuable to students from other faculties and universities. Please feel free to
 > provide feedback by raising an [issue](https://github.com/ReneHeim/how-to-prepare-your-thesis/issues) or sending an email (rene.heim@uni-goettingen.de).
+>
+> The *TODO* indicates that you (the student) must take action and convert the provided examples into your thesis-specific sections. 
 
-## Topic
+## Topic (EXAMPLE)
 *TODO: Briefly justify the relevance of your topic (practical and scientific motivation). Think about the "why" behind their choice.*
 
 #### Title: Invasive Species Colonization
@@ -18,7 +20,7 @@ Invasive species colonization poses significant challenges for land managers, ag
 #### Scientific Motivation:
 Studying invasive species colonization advances our understanding of fundamental ecological processes, such as species interactions, adaptation, and ecosystem resilience. Biological invasions serve as “natural experiments” that reveal how communities respond to new species and changing environments, offering insights into population biology, community dynamics, and biogeography. This research also informs the development of improved predictive models and management strategies in invasion ecology.
 
-## Research Questions and Hypothesis
+## Research Questions and Hypothesis (EXAMPLE)
 *TODO: Be as specific as possible when stating your questions and relate each question to a potential method or data source. This will help later when approaching your analysis and method section.*
 
 #### Research Question:
@@ -38,14 +40,14 @@ Other common data sources:
 - Field validation: UAV photogrammetry, species inventories
 
 
-## Data Management Plan
+## Data Management Plan (EXAMPLE)
 *TODO: Provide a data management plan which ensures that research data are properly organized, securely stored, and well documented throughout the project. This supports data quality, reproducibility, and long-term preservation. By planning ahead, researchers can prevent data loss, facilitate collaboration, and make their data accessible for future reuse or publication. Also planning the necessary data volume is helpful.*
 
 - What data will be used (e.g., remote sensing, field surveys, existing databases)?
 - How will data be accessed and managed (file formats, storage, backup)?
 - Any ethical or legal considerations (e.g., data privacy, licenses)?
 
-## Thesis Structure
+## Thesis Structure (EXAMPLE)
 *Draft a tentative table of contents, including main chapters and subheadings. This helps to visualize the flow of your arguments and ensures all necessary components are included.* 
 
 A typical scientific thesis, especially in the natural sciences or applied fields like GIS and vegetation science, follows a well-established structure designed to guide the reader logically through your research. One of the most widely used formats is the IMRAD structure, which stands for Introduction, Methods, Results, and Discussion. Many universities and disciplines use this as the backbone for thesis writing, often with additional sections for context and completeness.
