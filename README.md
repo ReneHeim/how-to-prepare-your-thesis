@@ -116,3 +116,4 @@ In summary, research questions and hypotheses are complementary tools: questions
 
 - https://writingcenter.uagc.edu/thesis-generator
 - https://thereader.mitpress.mit.edu/umberto-eco-how-to-write-a-thesis/
+- [Bewertungskriterien für geographische Abschlussarbeiten](https://www.uni-goettingen.de/de/document/download/7907e8368a04f6009b91433388822cf6.pdf/BewertKriterien_f_AbschlArb_etc_Geogr_Inst_Uni_Goe_2024-10.pdf)
