@@ -58,27 +58,27 @@ A typical scientific thesis, especially in the natural sciences or applied field
 A concise summary of your research question, methods, main findings, and conclusions.
 3.	Table of Contents
 4.	Introduction
-o	Presents the research topic and its relevance
-o	States the research questions and objectives
-o	Identifies gaps and relevance your study addresses
-o	Ask yourself, what are the main characters in your movie?
+- Presents the research topic and its relevance
+- States the research questions and objectives
+- Identifies gaps and relevance your study addresses
+- Ask yourself, what are the main characters in your movie?
 5.	Methods (Materials and Methods)
-o	Describes the study area, data sources, and analytical procedures
-o	Explains how research questions and hypotheses are addressed
+- Describes the study area, data sources, and analytical procedures
+- Explains how research questions and hypotheses are addressed
 6.	Results
-o	Presents findings objectively, often with tables, figures, and maps
-o	No interpretation—just the facts
+- Presents findings objectively, often with tables, figures, and maps
+- No interpretation—just the facts
 7.	Discussion
-o	Interprets the results in the context of your research questions and hypotheses
-o	Compares findings to previous studies
-o	Addresses limitations and implications
+- Interprets the results in the context of your research questions and hypotheses
+- Compares findings to previous studies
+- Addresses limitations and implications
 8.	Conclusion
-o	Summarizes key findings
-o	Suggests future research directions and practical implications
+- Summarizes key findings
+- Suggests future research directions and practical implications
 9.	References
-o	Full list of all sources cited
+- Full list of all sources cited
 10.	Appendices (if needed)
-o	Supplementary material, raw data, code, etc.
+- Supplementary material, raw data, code, etc.
 ________________________________________
 
 # Additional Information
