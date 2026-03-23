@@ -81,6 +81,10 @@ A concise summary of your research question, methods, main findings, and conclus
 - Supplementary material, raw data, code, etc.
 ________________________________________
 
+# Before Submitting Your Thesis
+
+[HERE](https://github.com/ReneHeim/how-to-prepare-your-thesis/tree/main/checklist) is a checklist that can help to have a final check of your thesis when drafting the last version of the written document. 
+
 # Additional Information
 
 ## What is the IMRAD Method?
