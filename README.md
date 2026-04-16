@@ -25,7 +25,9 @@ Studying invasive species colonization advances our understanding of fundamental
 
 #### Research Question:
 - How does road network density facilitate the spread of invasive Acacia species in African savannas?
-#### Hypotheses:
+- XYZ
+- XYZ
+#### Hypotheses (Not always necessary. See: Betts MG, Hadley AS, Frey DW, et al. When are hypotheses useful in ecology and evolution?. Ecol Evol. 2021;11:5762–5776. https://doi.org/10.1002/ece3.7365):
 - H1 (Proposes a specific effect/relationship between variables.): Invasion likelihood increases exponentially within 500m of roads (OR=3.2) versus control areas
 - H0 (Assumes no effect/no relationship exists between variables.): Soil type has no moderating effect on road-corridor invasion patterns
 #### Methods:
@@ -46,6 +48,10 @@ Other common data sources:
 - What data will be used (e.g., remote sensing, field surveys, existing databases)?
 - How will data be accessed and managed (file formats, storage, backup)?
 - Any ethical or legal considerations (e.g., data privacy, licenses)?
+
+#### Timeplan
+
+Creating a timeplan helps to structure your work logically and avoids last-minute stress. By setting clear **milestones** for research, writing, and revisions, you can track progress and allocate time efficiently for each stage. It also ensures balance between academic deadlines and personal workload, making the entire process more manageable and focused.
 
 ## Thesis Structure (EXAMPLE)
 *Draft a tentative table of contents, including main chapters and subheadings. This helps to visualize the flow of your arguments and ensures all necessary components are included.* 
